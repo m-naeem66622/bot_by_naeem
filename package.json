@@ -1,0 +1,19 @@
+{
+  "name": "bot_by_naeem",
+  "version": "1.0.0",
+  "description": "A discord bot to power up your discord channels",
+  "main": "bot.js",
+  "scripts": {
+    "serve": "nodemon",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Muhammad Naeem",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.11.0",
+    "dotenv": "^16.3.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
